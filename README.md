@@ -4,6 +4,13 @@ A fully local music player and playlist manager written in **C**, using multiple
 
 Playback is powered by **`ffplay` (FFmpeg)**, and the project supports **Windows and Linux** with OS-specific handling for threads and process execution.
 
+
+## 🎥 Demo Video
+
+Watch the full demo of the Local Music Player & Playlist Manager:
+
+👉 **[Click to watch the demo](https://github.com/Krishiv1808/DSA-MINIPROJECT/releases/download/v1.0/Demo.mp4)**
+
 ---
 
 ## 🚀 Features
