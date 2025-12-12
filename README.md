@@ -1,6 +1,6 @@
 # 🎵 Local Music Player & Playlist Manager (C Project)
 
-A fully local music player and playlist manager written in **C**, using multiple data structures like **BST**, **Adjacency List**, **Doubly Linked List**, and **Two Stacks** to manage songs, playback history, and playlist navigation.
+A fully local music player and playlist manager written in **C**, using multiple data structures like **Binary Search Tree**, **Adjacency List**, **Doubly Linked List**, and **Two Stacks** to manage songs, playback history, and playlist navigation.
 
 Playback is powered by **`ffplay` (FFmpeg)**, and the project supports **Windows and Linux** with OS-specific handling for threads and process execution.
 
